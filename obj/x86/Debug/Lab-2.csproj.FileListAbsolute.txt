@@ -1,0 +1,7 @@
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\2-я лаба\lab-2-GregBold-master — копия\obj\x86\Debug\Lab-2.csprojAssemblyReference.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\2-я лаба\lab-2-GregBold-master — копия\obj\x86\Debug\Lab-2.csproj.CoreCompileInputs.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\2-я лаба\lab-2-GregBold-master — копия\bin\Debug\ConsoleApplication.exe.config
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\2-я лаба\lab-2-GregBold-master — копия\bin\Debug\ConsoleApplication.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\2-я лаба\lab-2-GregBold-master — копия\bin\Debug\ConsoleApplication.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\2-я лаба\lab-2-GregBold-master — копия\obj\x86\Debug\ConsoleApplication.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\2-я лаба\lab-2-GregBold-master — копия\obj\x86\Debug\ConsoleApplication.pdb
