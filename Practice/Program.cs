@@ -1,4 +1,7 @@
-﻿using Practice.HR;
+﻿using Practice.Common;
+using Practice.HR;
+using Practice.Organization;
+using System;
 
 namespace Practice
 {
@@ -31,6 +34,10 @@ namespace Practice
             /*
              * TODO #9: При помощи отладчика проверить типы и структуру объектов, адресованных переменными client и employee.
              */
+            client.Name = new Name("Григорий", "Болденков", "Павлович");
+            Console.WriteLine("-------------------------------------");
+            employee.Name = new Name("Анатолий", "Иванов", "Анатольевич");
+            employee.Department = new Department("Pc master race");
         }
     }
 }
